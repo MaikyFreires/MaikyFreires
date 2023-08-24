@@ -11,7 +11,8 @@
 <img align ="center" alt = "c++" src = https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white >
 <img align = "center" alt = "postgresql" src = https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white>
 <img align = "center" alt = "mysql" src =  https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white>
- 
+<img align = "center" alt = "mysql" src =  https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white>
+
 </div><br>
 
 Estou iniciando meus estudos em programação.
